@@ -30,7 +30,7 @@ namespace Menu_Control
 
             int count = 1;
 
-            FileStream fileStream = new FileStream(@"C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\BookFiles\MobyDick.txt", FileMode.Open);
+            FileStream fileStream = new FileStream(@"C:\Users\Thomas\Documents\Computer Science Resources\C# Resources\GUI Apps\Menu Control\Menu Control\BookFiles\MobyDick.txt", FileMode.Open);
 
             try
             {
@@ -128,7 +128,7 @@ namespace Menu_Control
         {
             int count = 1;
 
-            FileStream fileStream = new FileStream(@"C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\BookFiles\MobyDick.txt", FileMode.Open);
+            FileStream fileStream = new FileStream(@"..\..\BookFiles\MobyDick.txt", FileMode.Open);
 
             try
             {
@@ -162,6 +162,10 @@ namespace Menu_Control
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                fileStream.Close();
             }
         }
 
@@ -169,7 +173,7 @@ namespace Menu_Control
         {
             int count = 1;
 
-            FileStream fileStream = new FileStream(@"C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\BookFiles\ATaleOfTwoCities.txt", FileMode.Open);
+            FileStream fileStream = new FileStream(@"..\..\BookFiles\ATaleOfTwoCities.txt", FileMode.Open);
 
             try
             {
@@ -203,6 +207,10 @@ namespace Menu_Control
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                fileStream.Close();
             }
         }
 
@@ -210,7 +218,7 @@ namespace Menu_Control
         {
             int count = 1;
 
-            FileStream fileStream = new FileStream(@"C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\BookFiles\TheThreeMusketeers.txt", FileMode.Open);
+            FileStream fileStream = new FileStream(@"..\..\BookFiles\TheThreeMusketeers.txt", FileMode.Open);
 
             try
             {
@@ -244,6 +252,10 @@ namespace Menu_Control
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                fileStream.Close();
             }
         }
 
