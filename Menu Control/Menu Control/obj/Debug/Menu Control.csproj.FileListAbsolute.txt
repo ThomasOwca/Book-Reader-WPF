@@ -1,0 +1,15 @@
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\bin\Debug\Menu Control.exe.config
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\bin\Debug\Menu Control.exe
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\bin\Debug\Menu Control.pdb
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\App.g.cs
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control_MarkupCompile.cache
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control_MarkupCompile.lref
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control.g.resources
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu_Control.Properties.Resources.resources
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control.csproj.GenerateResource.cache
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control.exe
+C:\Users\Thomas\Documents\C# Resources\WPF Practice Code\Menu Control\Menu Control\obj\Debug\Menu Control.pdb
